@@ -1,7 +1,7 @@
 Titanium_Map_Tools
 ==================
 
-Several handy functions to use on your Titanium Map View
+Several handy functions to use with Titanium Map View
 
 - Get lat lon bounds of visible region
 - Get (in)visible annotations
